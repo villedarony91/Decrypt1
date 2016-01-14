@@ -1,0 +1,18 @@
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Encrypt Decrypt.exe.config
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\obj\x86\Debug\Encrypt Decrypt.vbprojResolveAssemblyReference.cache
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\obj\x86\Debug\Encrypt_Decrypt.UI.resources
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\obj\x86\Debug\Encrypt_Decrypt.Resources.resources
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\obj\x86\Debug\Encrypt Decrypt.vbproj.GenerateResource.Cache
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Encrypt Decrypt.exe
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Encrypt Decrypt.pdb
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Encrypt Decrypt.xml
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Telerik.WinControls.dll
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\TelerikCommon.dll
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Telerik.WinControls.xml
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\obj\x86\Debug\Encrypt Decrypt.exe
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\obj\x86\Debug\Encrypt Decrypt.xml
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\obj\x86\Debug\Encrypt Decrypt.pdb
+C:\Users\rjlopez\Documents\Visual Studio 2012\Projects\Encrypt Decrypt\Encrypt Decrypt\obj\x86\Debug\Encrypt Decrypt.exe.licenses
