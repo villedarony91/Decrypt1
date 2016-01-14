@@ -89,6 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.vb" />
+    <Compile Include="Engine.vb" />
     <Compile Include="UI.Designer.vb">
       <DependentUpon>UI.vb</DependentUpon>
     </Compile>
